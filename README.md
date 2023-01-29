@@ -1,2 +1,10 @@
 # laughing-octo-adventure
-Kuching 
+# net_rim_accessory_api
+# net_rim_amms
+# net_rin_amms
+# net_rim_ams_enforcement
+# net_rim_ams_enforcement
+# net_rim_app_manager
+# net_rim_app_manager
+# net_rim_app_manager_console
+# net_rim_app_manager_cons
